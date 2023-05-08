@@ -16,5 +16,5 @@ The whole dataset can be downloaded from- http://kdd.ics.uci.edu/databases/kddcu
 # ALGORITHMS USED
 Gaussian Naive Bayes, Decision Tree, Random Forest, SVM, Logistic Regression,Gradient Boosting, ANN
 
-![rec](https://i.imgur.com/qGAxNDi.png)
+![rec](https://github.com/hacker-404-error/INTRUSION_DETECTION_-SYSTEM/blob/master/Images/Select%20CSV%20file%20For%20data%20in%20App.png)
 
