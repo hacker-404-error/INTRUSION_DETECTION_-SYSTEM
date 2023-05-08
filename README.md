@@ -26,11 +26,11 @@ pip install streamlit
 ## How To use The Streamlit app for IDS
 1. Upload the Data file For Test and Train the Data
    
-    ![rec](https://raw.githubusercontent.com/hacker-404-error/INTRUSION_DETECTION_-SYSTEM/master/Images/1.%20Select%20CSV%20file%20For%20data%20in%20App.png)
+![rec](https://raw.githubusercontent.com/hacker-404-error/INTRUSION_DETECTION_-SYSTEM/master/Images/1.%20Select%20CSV%20file%20For%20data%20in%20App.png)
    
 2. After Uploading It will show the details of the data and the data itself in rows and columns and test and train the data automatically
    
-    ![rec](https://raw.githubusercontent.com/hacker-404-error/INTRUSION_DETECTION_-SYSTEM/master/Images/2.%20Training%20And%20Testing%20.png)
+![rec](https://raw.githubusercontent.com/hacker-404-error/INTRUSION_DETECTION_-SYSTEM/master/Images/2.%20Training%20And%20Testing%20.png)
 
 3. It will automatically generate the training and testing time as well as score
 
